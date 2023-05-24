@@ -20,13 +20,13 @@ jelas serta mengikuti contoh kode yang diberikan.<br/>
 - Program dikumpulkan pada repository publik GitHub dengan nama
 “TP3DPBO2023”, dengan … diisi kelas (C1/C2).<br/>
 - Struktur folder:<br/>
-      &nbsp source_code<br/>
-      &nbsp program<br/>
-      &nbsp Screenshot<br/>
-      &nbsp SQL file<br/>
-      &nbsp Desain database<br/>
-      &nbsp video_preview.mp4<br/>
-      &nbsp README.md<br/>
+      + source_code<br/>
+      + program<br/>
+      + Screenshot<br/>
+      + SQL file<br/>
+      + Desain database<br/>
+      + video_preview.mp4<br/>
+      + README.md<br/>
 - File README berisi desain program, penjelasan alur, dan dokumentasi saat
 program dijalankan (screenshot & record).<br/>
 
